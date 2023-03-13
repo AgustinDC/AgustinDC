@@ -1,4 +1,7 @@
-### Hi there 👋
+# Mi nombre es Agustin Di Carlo. <br><br>
+Linkedin: www.linkedin.com/in/agustindicarlo
+
+
 
 <!--
 **AgustinDC/AgustinDC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
